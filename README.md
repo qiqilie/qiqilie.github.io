@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to qiqilie.github.io
 
-You can use the [editor on GitHub](https://github.com/qiqilie/qiqilie.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+本人一直从事互联网行业8年时间，专注于网络系统开发，h5制作，前端开发等领域工作，对移动互联网有独到见解，参与过大小项目数百个，有较强的实战经验和专业能力，良好的团队合作精神和沟通能力。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 专业技能
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+1、前端开发和移动端H5制作
+2、网站建设及程序开发，熟练掌握ASP.NET三层架构及MVC开发模式; 
+3、有SQL Server数据库经验,熟练掌握SQL语句，熟悉存储过程、触发器的编写; 
+4、熟练掌握JavaScript、Ajax、JQuery、HTML5、DOM等各种Web前端开发技术； 
+5、熟悉JQuery等流行框架、插件，对CSS深入研究 
+6、熟悉代码的浏览器兼容性，编写具有浏览器兼容性的代码； 
+7、具备良好的团队协作精神，以及较强的学习能力
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 移动端H5作品
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qiqilie/qiqilie.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### PC端作品
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 系统开发
