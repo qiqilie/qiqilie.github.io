@@ -5,8 +5,8 @@
 ### 专业技能
 
 ```markdown
-1、前端开发和移动端H5制作
-2、网站建设及程序开发，熟练掌握'ASP.NET'三层架构及MVC开发模式; 
+1、web前端开发和移动端H5制作
+2、网站建设及程序开发，熟练掌握ASP.NET三层架构及MVC开发模式; 
 3、有SQL Server数据库经验,熟练掌握SQL语句，熟悉存储过程、触发器的编写; 
 4、熟练掌握JavaScript、Ajax、JQuery、HTML5、DOM等各种Web前端开发技术； 
 5、熟悉JQuery等流行框架、插件，对CSS深入研究 
