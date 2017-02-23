@@ -15,11 +15,29 @@
 ```
 
 ### 移动端H5作品
-更多案例：[http://www.lejuhb.com/leju/zt/zhiku/](http://www.lejuhb.com/leju/zt/zhiku/)
+
+产品宣传：[http://www.lejuhb.com/whzt/tyh5/](http://www.lejuhb.com/whzt/tyh5/)
+
+地标来袭：[http://www.lejuhb.com/whzt/dibiao/msdb/](http://www.lejuhb.com/whzt/dibiao/msdb/)
+
+马良奇遇记：[点击查看](http://eqjf13.epub360.cn/v2/manage/book/lvgkaj/)
 
 更多案例：[http://www.lejuhb.com/leju/zt/zhiku/](http://www.lejuhb.com/leju/zt/zhiku/)
 
 ### PC端作品
 
+Y车评：[http://www.yautoshow.com/](http://www.yautoshow.com/)
+
+烽火科技集团：[http://www.wri.com.cn/cn/](http://www.wri.com.cn/cn/)
+
+光谷产权联交所：[http://www.ovupre.com/](http://www.ovupre.com/)
 
 ### 系统开发
+
+3D抽奖系统：[http://www.lejuhb.com/chou/pper.html](http://www.lejuhb.com/chou/pper.html)
+
+身份证识别系统：[http://www.lejuhb.com/shenfen/](http://www.lejuhb.com/shenfen/)
+
+摇号选号系统：[http://www.lejuhb.com/data/yao.aspx?cid=35](http://www.lejuhb.com/data/yao.aspx?cid=35)
+
+选房销控系统：[http://www.lejuhb.com/data/show.aspx?cid=36](http://www.lejuhb.com/data/show.aspx?cid=36)
