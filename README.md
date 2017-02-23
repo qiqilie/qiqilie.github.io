@@ -20,7 +20,7 @@
 
 地标来袭：[http://www.lejuhb.com/whzt/dibiao/msdb/](http://www.lejuhb.com/whzt/dibiao/msdb/)
 
-马良奇遇记：[点击查看](http://eqjf13.epub360.cn/v2/manage/book/lvgkaj/)
+马良奇遇记：[http://eqjf13.epub360.cn/v2/manage/book/lvgkaj/](http://eqjf13.epub360.cn/v2/manage/book/lvgkaj/)
 
 更多案例：[http://www.lejuhb.com/leju/zt/zhiku/](http://www.lejuhb.com/leju/zt/zhiku/)
 
@@ -41,3 +41,5 @@ Y车评：[http://www.yautoshow.com/](http://www.yautoshow.com/)
 摇号选号系统：[http://www.lejuhb.com/data/yao.aspx?cid=35](http://www.lejuhb.com/data/yao.aspx?cid=35)
 
 选房销控系统：[http://www.lejuhb.com/data/show.aspx?cid=36](http://www.lejuhb.com/data/show.aspx?cid=36)
+
+别墅竞拍系统：[http://www.lejuhb.com/jingpai/](http://www.lejuhb.com/jingpai/)
