@@ -16,6 +16,8 @@
 
 ### 移动端H5作品
 
+节日推广：[http://www.yautoshow.com/whzt/muqinjie/](http://www.yautoshow.com/whzt/muqinjie/)
+
 产品宣传：[http://www.yautoshow.com/whzt/zhongqiu/](http://www.yautoshow.com/whzt/zhongqiu/)
 
 地标来袭：[http://www.yautoshow.com/whzt/dibiao/msdb/](http://www.yautoshow.com/whzt/dibiao/msdb/)
