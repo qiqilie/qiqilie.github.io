@@ -20,9 +20,11 @@
 
 地标来袭：[http://www.yautoshow.com/whzt/dibiao/msdb/](http://www.yautoshow.com/whzt/dibiao/msdb/)
 
+圣诞小游戏：[http://www.yautoshow.com/whzt/zjsdj/](http://www.yautoshow.com/whzt/zjsdj/)
+
 马良奇遇记：[http://eqjf13.epub360.cn/v2/manage/book/lvgkaj/](http://eqjf13.epub360.cn/v2/manage/book/lvgkaj/)
 
-更多案例：[http://www.yautoshow.com/leju/zt/zhiku/](http://www.yautoshow.com/leju/zt/zhiku/)
+更多案例：[http://www.yautoshow.com/whzt/zhiku/](http://www.yautoshow.com/whzt/zhiku/)
 
 ### PC端作品
 
@@ -34,11 +36,11 @@ Y车评：[http://www.yautoshow.com/](http://www.yautoshow.com/)
 
 ### 系统开发
 
+摇号选号系统：[http://www.yautoshow.com/whzt/yaohao/](http://www.yautoshow.com/whzt/yaohao/)
+
 3D抽奖系统：[http://www.lejuhb.com/chou/pper.html](http://www.lejuhb.com/chou/pper.html)
 
 身份证识别系统：[http://www.lejuhb.com/shenfen/](http://www.lejuhb.com/shenfen/)
-
-摇号选号系统：[http://www.lejuhb.com/data/yao.aspx?cid=35](http://www.lejuhb.com/data/yao.aspx?cid=35)
 
 选房销控系统：[http://www.lejuhb.com/data/show.aspx?cid=36](http://www.lejuhb.com/data/show.aspx?cid=36)
 
